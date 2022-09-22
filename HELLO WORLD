@@ -1,0 +1,5 @@
+# Hello World Program in Bash Shell
+#hello world in different styles like captial only small only and both
+echo "HELLO WORLD"
+echo "hello world"
+echo "Hello World"
